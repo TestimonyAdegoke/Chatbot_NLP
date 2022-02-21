@@ -2,7 +2,7 @@
 
 This project implements a chatbot application using the principles and libraries of Natural Language Processing
 
-# Train_chatbot.py
+## Train_chatbot.py
 
 This file contains codes for building and training the deep learning model that does the job of classifying and identifying what the user wants from the bot.
 
